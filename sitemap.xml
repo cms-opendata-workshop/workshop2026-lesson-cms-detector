@@ -1,159 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/01-introduction.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/02-tracker.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/02-tracker.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/03-ecal.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/03-ecal.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/04-hcal.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/04-hcal.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/05-magnet.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/05-magnet.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/06-muon.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/06-muon.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/404.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/404.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/index.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/aio.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/01-introduction.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/images.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/02-tracker.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/index.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/03-ecal.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/04-hcal.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/02-tracker.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/05-magnet.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/03-ecal.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/06-muon.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/04-hcal.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/05-magnet.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/06-muon.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/01-introduction.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/02-tracker.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/03-ecal.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/04-hcal.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/05-magnet.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/06-muon.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/404.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/key-points.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/CODE_OF_CONDUCT.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/profiles.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/LICENSE.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/aio.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/02-tracker.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/images.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/03-ecal.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/index.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/04-hcal.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/01-introduction.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/05-magnet.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/02-tracker.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/06-muon.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/03-ecal.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/404.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/04-hcal.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/05-magnet.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/06-muon.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/aio.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/404.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/images.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/index.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/LICENSE.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/aio.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/02-tracker.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/images.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/03-ecal.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/index.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/04-hcal.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/instructor-notes.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/05-magnet.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/key-points.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/06-muon.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor/profiles.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/instructor-notes.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/key-points.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://cms-opendata-workshop.github.io/workbench-template-md/site/docs/profiles.html</loc>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/images.html</loc>
+  </url>
+  <url>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://cms-opendata-workshop.github.io/workshop2026-lesson-cms-detector/site/docs/profiles.html</loc>
   </url>
 </urlset>
