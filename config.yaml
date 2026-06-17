@@ -31,7 +31,7 @@ life_cycle: 'stable' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/cms-opendata-workshop/workbench-template-md' # FIXME
+source: 'https://github.com/cms-opendata-workshop/workshop2026-lesson-cms-detector'
 
 # Default branch of your lesson
 branch: 'main'
