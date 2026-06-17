@@ -18,7 +18,7 @@ varnish: 'cms-opendata-workshop/varnish'
 title: 'The CMS Detector' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 2024-07-29 # FIXME
+created: 2026-06-17 # FIXME
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, CMS' # FIXME
